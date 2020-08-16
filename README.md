@@ -1,3 +1,3 @@
 # Kokoa clone 2020 study
 
-CSS got so much better!
+I wanna be a greatest developer!!!
