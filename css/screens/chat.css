@@ -48,7 +48,7 @@
 }
 
 .message__author {
-    margin-bottom: 8px;
+    margin-bottom: 5px;
     display: block;
 }
 
@@ -57,6 +57,8 @@
     padding: 13px;
     border-radius: 15px;
     margin-right: 5px;
+    border-top-left-radius: 0px;
+    font-size: 18px;
 }
 
 .message__info {
@@ -67,4 +69,4 @@
 .message__author,
 .message__time {
     opacity: 0.8;
-    font-size: 13px;
+    font-size: 14px;
