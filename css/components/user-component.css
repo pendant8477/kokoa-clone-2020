@@ -54,3 +54,14 @@
     margin-bottom: 10px;
     display: block;
 }
+
+.user-component__phone-number {
+    display: flex;
+}
+
+.user-component__phone-number i {
+    padding-left: 5px;
+    padding-top: 8px;
+    color: tomato;
+    opacity: 0.8;
+}
